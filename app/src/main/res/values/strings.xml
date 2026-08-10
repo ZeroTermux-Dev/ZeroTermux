@@ -1066,6 +1066,14 @@ Reset successfully</string>
     <string name="menu_create_project_python">PYTHON</string>
     <string name="menu_create_project_php">PHP</string>
     <string name="menu_create_project_npm">NPM</string>
+    <string name="menu_create_project_vscode">VS Code</string>
+    <string name="menu_vscode_install_title">Installing environment</string>
+    <string name="menu_vscode_install_message">Installing VS Code Server (code-server) in the terminal. This may take a while.\n\nWhen finished, tap VS Code again to open it.\n\nYou can also open it externally:\n%1$s</string>
+    <string name="menu_vscode_open_message">Starting VS Code Server, entering soon…\nExternal address: %1$s</string>
+    <string name="menu_vscode_open_builtin">Built-in browser</string>
+    <string name="menu_vscode_open_external">External browser</string>
+    <string name="menu_vscode_opening_browser">Opening VS Code in the built-in browser…</string>
+    <string name="menu_vscode_loading_enter">Starting VS Code, entering soon…\nPlease wait, do not close</string>
     <string name="menu_open_project">Open</string>
     <string name="beautification_function">UI</string>
     <string name="online_features">Online</string>

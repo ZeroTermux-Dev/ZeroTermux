@@ -1099,6 +1099,14 @@
     <string name="menu_create_project_python">PYTHON</string>
     <string name="menu_create_project_php">PHP</string>
     <string name="menu_create_project_npm">NPM</string>
+    <string name="menu_create_project_vscode">VS Code</string>
+    <string name="menu_vscode_install_title">正在安装环境</string>
+    <string name="menu_vscode_install_message">正在终端中安装 VS Code Server（code-server），可能需要一些时间。\n\n安装完成后，请再次点击「VS Code」打开。\n\n也可使用外部浏览器打开：\n%1$s</string>
+    <string name="menu_vscode_open_message">正在启动 VS Code Server，即将进入…\n外部地址：%1$s</string>
+    <string name="menu_vscode_open_builtin">内置浏览器</string>
+    <string name="menu_vscode_open_external">外部打开</string>
+    <string name="menu_vscode_opening_browser">正在用内置浏览器打开 VS Code…</string>
+    <string name="menu_vscode_loading_enter">正在启动 VS Code，即将进入…\n请稍候，勿关闭</string>
     <string name="menu_open_project">打开项目</string>
     <string name="beautification_function">美化/UI</string>
     <string name="online_features">线上功能</string>
